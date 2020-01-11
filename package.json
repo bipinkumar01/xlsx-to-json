@@ -1,0 +1,15 @@
+{
+  "name": "xlsx-to-json",
+  "version": "1.0.0",
+  "description": "Reading xlsx file and converting into json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bipin Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.6.1",
+    "event-stream": "^4.0.1"
+  }
+}
